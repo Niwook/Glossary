@@ -1,2 +1,6 @@
 # Glossary
-Aplicación que ayuda a un estudiante de idiomas a llevar un control sobre el vocabulario que está adquiriendo.
+Aplicación que ayuda a un estudiante de idiomas a llevar un control sobre el vocabulario que está adquiriendo y que a su vez le permita obtener información secundaria que apoye dicho control.
+
+Cada vez que un estudiante encuentra una palabra desconocida tiene que buscar su significado para entender el texto que está leyendo; pero en una gran cantidad de ocasiones no recordará si la buscó en otra ocasión o si la búsqueda se realizó en el mismo contexto y, por tanto, con el mismo significado; en otro totalmente distinto. Con esta aplicación el estudiante sabrá si ya ha buscado esa palabra con anterioridad.
+
+Cada vez que el estudiante encuentre una palabra que desconoce realizará una búsqueda en la aplicación para saber su significado. Si la palabra ya ha sido buscada con anterioridad mostrará el o los significados con los que se guardó en un principio o el de las posibles actualizaciones que se han realizado con posterioridad. De igual manera mostrará un número que indica las veces que se ha realizado una búsqueda sobre ese término. Por otro lado, si la palabra nunca ha sido buscada, el sistema mostrará un menú en el que se le indicará si desea introducir esa palabra en el sistema, realizar otra búsqueda o salir de la aplicación.
